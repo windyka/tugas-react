@@ -1,0 +1,20 @@
+div.card {
+    width: 50%;
+    height: 600px;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 60px;
+    border-radius: 15px;
+}
+
+img.card-img-top {
+    height: 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px 15px 0px 0px;
+}
+
+li.list-group-item:hover {
+    background-color: blue;
+    color: white;
+}
